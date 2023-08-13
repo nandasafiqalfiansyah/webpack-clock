@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Sesuaikan sesuai kebutuhan Anda */
+}
+
+.clock {
+  text-align: center;
+}
